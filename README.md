@@ -18,6 +18,6 @@ O JSON de response de Pedido contém o array de ItensPedido, onde há a um FK da
 Após adcionar minimo de 1 produto, faça um post de pedido utilizando o ID do produto adcionado que se deseja listar em pedido.
 
 ## Observação para avaliação
-O código utiliza o SQLite por questão de pertinencia dos dados.
+O código utiliza o SQLite por questão de preferência para manter os dados. Utilizo o Sql Server pelo Docker para estudos, mas optei pelo SQLite.
 
 
